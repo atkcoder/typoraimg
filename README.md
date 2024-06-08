@@ -1,2 +1,2 @@
 # typoraimg
-img
+**The image of my notes**
